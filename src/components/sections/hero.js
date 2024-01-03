@@ -61,15 +61,16 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Shreyas Viswanathan.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I craft digital solutions.</h3>;
   const four = (
     <>
       <p>
         I’m an undergraduate Computer Science student at Purdue with interests in large-scale
-        data-driven web applications and autonomous systems. Currently, I’m focused on implementing
-        multi-feature fusion lane detection at{' '}
-        <a href="https://engineering.purdue.edu/AMP/" target="_blank" rel="noreferrer">
-          Autonomous Motorsports
+        data-driven web applications and autonomous systems. Currently, I’m focused on developing
+        solutions to identify the impact of the industry shift from conventional ICE production to
+        electric vehicle production on small and medium-sized automotive part manufacturers at{' '}
+        <a href="https://www.surgetheory.org/" target="_blank" rel="noreferrer">
+          The Knudsen Institute
         </a>
         .
       </p>
