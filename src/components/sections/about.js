@@ -135,30 +135,36 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Shreyas and I am an undergraduate freshman at Purdue University
+              majoring in Computer Science and minoring in math, with a profound knack for tackling
+              complex problems and developing innovative solutions for them.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I began my programming journey in the Fall of 2021 with Python and quickly developed a
+              deep appreciation for its versatility. because of how it can power large-scale web
+              applications and cutting-edge machine learning models. Following that, I picked up web
+              development, starting with HTML and CSS, and eventually moving onto building
+              functional applications using React.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              My main focus these days is developing solutions for identifying the impact of the
+              shift from internal combustion engine vehicle production to electric vehicle
+              production at the <a href="https://www.surgetheory.org/">Knudsen Institute</a>,
+              developing a robust lane detection algorithm for the kart competing in the autonomous
+              karting series at{' '}
+              <a href="https://engineering.purdue.edu/AMP/">Autonomous Motorsports</a>, and working
+              to develop computer vision models that predict the location of wildfires based on
+              lightning strikes as part of the Lightning and Wildfires Research Lab affiliated with{' '}
+              <a href="https://ml-purdue.github.io/">ML@Purdue</a>.
+            </p>
+
+            <p>
+              My ultimate goal is to not only contribute to the field as a computer vision engineer,
+              specifically in developing advanced object detection algorithms for autonomous
+              vehicles, but to also improve my ability to tackle algorithmic problems in a
+              systematic manner.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
