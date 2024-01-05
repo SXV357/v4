@@ -2,8 +2,8 @@
 date: '3'
 title: 'Online Product Marketplace'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-# external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/SXV357/CS-180-Project5'
+external: ''
 tech:
   - Java
   - Swing

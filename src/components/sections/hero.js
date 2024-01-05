@@ -67,8 +67,9 @@ const Hero = () => {
       <p>
         I’m an undergraduate Computer Science student at Purdue with interests in large-scale
         data-driven web applications and autonomous systems. Currently, I’m focused on developing
-        solutions to identify the impact of the industry shift from conventional ICE production to
-        electric vehicle production on small and medium-sized automotive part manufacturers at{' '}
+        solutions to identify the impact of the industry shift from internal combustion engine
+        vehicle production to electric vehicle production on small and medium-sized automotive part
+        manufacturers at{' '}
         <a href="https://www.surgetheory.org/" target="_blank" rel="noreferrer">
           The Knudsen Institute
         </a>

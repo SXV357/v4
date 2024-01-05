@@ -144,19 +144,17 @@ const About = () => {
               I began my programming journey in the Fall of 2021 with Python and quickly developed a
               deep appreciation for its versatility. because of how it can power large-scale web
               applications and cutting-edge machine learning models. Following that, I picked up web
-              development, starting with HTML and CSS, and eventually moving onto building
-              functional applications using React.
+              development, starting with HTML and CSS, moving on to React then eventually diving
+              into the world of deep learning models with applications in both natural language
+              processing and computer vision tasks.
             </p>
 
             <p>
-              My main focus these days is developing solutions for identifying the impact of the
-              shift from internal combustion engine vehicle production to electric vehicle
-              production at the <a href="https://www.surgetheory.org/">Knudsen Institute</a>,
-              developing a robust lane detection algorithm for the kart competing in the autonomous
-              karting series at{' '}
+              My main focus these days is developing a robust lane detection algorithm for the kart
+              competing in the autonomous karting series at{' '}
               <a href="https://engineering.purdue.edu/AMP/">Autonomous Motorsports</a>, and working
               to develop computer vision models that predict the location of wildfires based on
-              lightning strikes as part of the Lightning and Wildfires Research Lab affiliated with{' '}
+              lightning strikes as part of the Lightning and Wildfires Research Lab at{' '}
               <a href="https://ml-purdue.github.io/">ML@Purdue</a>.
             </p>
 
