@@ -150,12 +150,9 @@ const About = () => {
             </p>
 
             <p>
-              My main focus these days is developing a robust lane detection algorithm for the kart
-              competing in the autonomous karting series at{' '}
-              <a href="https://engineering.purdue.edu/AMP/">Autonomous Motorsports</a>, and working
-              to develop computer vision models that predict the location of wildfires based on
-              lightning strikes as part of the Lightning and Wildfires Research Lab at{' '}
-              <a href="https://ml-purdue.github.io/">ML@Purdue</a>.
+              My main focus these days is working to develop computer vision models that predict the
+              location of wildfires based on lightning strikes as part of the Lightning and
+              Wildfires Research Lab at <a href="https://ml-purdue.github.io/">ML@Purdue</a>.
             </p>
 
             <p>
