@@ -2,15 +2,10 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/SXV357/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  shreyasviswanathan.netlify.app
+  shreyas-viswanathan-portfolio.vercel.app
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  <a href="https://shreyasviswanathan.netlify.app/" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/247c549f-6ce1-48c8-a762-9fcd3fbb5c4f/deploy-status" alt="Netlify Status" />
-  </a>
+  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://vercel.com" target="_blank">Vercel</a>
 </p>
 
 ![demo](https://raw.githubusercontent.com/SXV357/v4/main/src/images/demo.png)
