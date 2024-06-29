@@ -65,15 +65,18 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an undergraduate Computer Science student at Purdue with interests in large-scale
-        data-driven web applications and autonomous systems. Currently, I’m focused on developing
-        solutions to identify the impact of the industry shift from internal combustion engine
-        vehicle production to electric vehicle production on small and medium-sized automotive part
-        manufacturers at{' '}
-        <a href="https://www.surgetheory.org/" target="_blank" rel="noreferrer">
-          The Knudsen Institute
+        I’m an undergraduate Computer Science student with interests in large-scale data-driven web
+        applications and autonomous systems. Currently, I’m focused on developing solutions to
+        enable the rapid development and deployment of chatbots with support for multiple isolated
+        LLM implementations at{' '}
+        <a href="https://www.open.build/" target="_blank" rel="noreferrer">
+          Open Build
         </a>
         .
+        {/* . I'm also researching RAG frameworks that can be utilized to build chatbots for the manufacturing industry at{' '} <a href="https://www.surgetheory.org/" target="_blank" rel="noreferrer">
+          The Knudsen Institute
+        </a>
+        . */}
       </p>
     </>
   );

@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Java', 'R', 'Scikit-Learn', 'NumPy', 'OpenCV'];
+  const skills = ['Python', 'JavaScript', 'React', 'Firebase', 'Flask', 'Docker'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,24 +135,36 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Shreyas and I am an undergraduate freshman at Purdue University
-              majoring in Computer Science and minoring in math, with a profound knack for tackling
-              complex problems and developing innovative solutions for them.
+              Hello! My name is Shreyas, a junior computer science major at Purdue University, with
+              a profound knack for tackling complex problems and developing innovative solutions for
+              them.
             </p>
 
             <p>
-              I began my programming journey in the Fall of 2021 with Python and quickly developed a
-              deep appreciation for its versatility. because of how it can power large-scale web
-              applications and cutting-edge machine learning models. Following that, I picked up web
-              development, starting with HTML and CSS, moving on to React then eventually diving
-              into the world of deep learning models with applications in both natural language
-              processing and computer vision tasks.
+              Fast-forward to today, and I’ve had the privilege of working at{' '}
+              <a target="_blank" href="https://www.pnnl.gov/" rel="noreferrer">
+                Pacific Northwest National Laboratory
+              </a>
+              , a DOE-affiliated national lab,{' '}
+              <a target="_blank" href="https://www.surgetheory.org/" rel="noreferrer">
+                The Knudsen Institute
+              </a>
+              , a private non-profit research organization,{' '}
+              <a href="https://www.inspiritai.com/">Inspirit AI</a>, an ed-tech company, and{' '}
+              <a href="https://www.linkedin.com/company/hello-world-purduehackers/mycompany/">
+                Hello World
+              </a>
+              , Purdue's largest beginner-friendly 24-hour hackathon.
             </p>
 
             <p>
-              My main focus these days is working to develop computer vision models that predict the
-              location of wildfires based on lightning strikes as part of the Lightning and
-              Wildfires Research Lab at <a href="https://ml-purdue.github.io/">ML@Purdue</a>.
+              My main focus these days is working to create an accessible and robust conversational
+              AI software development platform where developers can test and fine tune multiple
+              pre-trained LLMs, and deploy chatbots using them in isolated environments at{' '}
+              <a href="https://www.open.build/" target="_blank" rel="noreferrer">
+                Open Build
+              </a>
+              .
             </p>
 
             <p>
