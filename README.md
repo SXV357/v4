@@ -1,14 +1,23 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/SXV357/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   shreyas-viswanathan-portfolio.vercel.app
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://vercel.com" target="_blank">Vercel</a>
+  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
+</p>
+<p align="center">
+  Previous iterations:
+  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
+  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
+  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
+</p>
+<p align="center">
+  <img src="https://deploy-badge.vercel.app/vercel/shreyas-viswanathan-portfolio" alt="Vercel Deploy"></img>
 </p>
 
-![demo](https://raw.githubusercontent.com/SXV357/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
