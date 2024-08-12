@@ -2,7 +2,7 @@
 date: '2024-06-29'
 title: 'AI Innovation Fellow, Deep Learning Scholar'
 company: 'Inspirit AI'
-location: 'Palo Alto, CA'
+location: 'Remote'
 range: 'August 2022 - Present'
 url: 'https://www.inspiritai.com/returning-students-deep-dives'
 ---

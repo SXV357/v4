@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Online Product Marketplace'
 cover: './demo.png'
 github: 'https://github.com/SXV357/CS-180-Project5'
@@ -11,4 +11,4 @@ tech:
   - GitHub
 ---
 
-This project was completed in satisfaction with the capstone project requirements of Purdue's CS180 course as part of a group of 5 people. It involves an e-commerce application where sellers can create stores and add products and where customers can view product listings and purchase them. There are several other features included such as customers being able to review products and return items and sellers being able to view data about customer shopping carts and sales by store.
+This project was completed in satisfaction with the capstone project requirements of Purdue's CS180 course, and as part of a group of 5. It involves a desktop-based e-commerce application supporting two kinds of users, namely sellers who can create stores and products in then, and customers who can view those product listings and purchase them. The application is capable of supporting multiple concurrent users, and facilitating seamless data access and retrieval. It also features a database constructed using CSV files, to persist information in the case of client or server shutdowns.

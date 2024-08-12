@@ -4,9 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'Shreyas Viswanathan',
     description:
-      'Shreyas Vuiswanathan is an undergraduate Computer Science student with a passion for large-scale web applications and autonomous systems.',
+      'Shreyas Viswanathan is an undergraduate Computer Science student with a passion for large-scale web applications and autonomous systems.',
     siteUrl: 'https://shreyasviswanathan.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: 'src/images/demo.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Shreyas91804735',
   },
   plugins: [

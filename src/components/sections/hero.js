@@ -66,17 +66,8 @@ const Hero = () => {
     <>
       <p>
         I’m an undergraduate Computer Science student with interests in large-scale data-driven web
-        applications and autonomous systems. Currently, I’m focused on developing solutions to
-        enable the rapid development and deployment of chatbots with support for multiple isolated
-        LLM implementations at{' '}
-        <a href="https://www.open.build/" target="_blank" rel="noreferrer">
-          Open Build
-        </a>
-        .
-        {/* . I'm also researching RAG frameworks that can be utilized to build chatbots for the manufacturing industry at{' '} <a href="https://www.surgetheory.org/" target="_blank" rel="noreferrer">
-          The Knudsen Institute
-        </a>
-        . */}
+        applications and autonomous systems. I enjoy tackling complex problems, and working towards
+        developing innovative and systemic ways to tackle them.
       </p>
     </>
   );

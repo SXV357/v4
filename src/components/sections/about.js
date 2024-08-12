@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'JavaScript', 'React', 'Firebase', 'Flask', 'Docker'];
+  const skills = ['Python', 'JavaScript', 'React', 'Firebase', 'Flask', 'SQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,9 +135,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Shreyas, a junior computer science major at Purdue University, with
-              a profound knack for tackling complex problems and developing innovative solutions for
-              them.
+              Hi! I'm Shreyas, a computer science major at Purdue University. My passion for
+              computer science was ignited when I first began learning Python and developed a
+              graphics-based command-line version of hangman. One thing that stood out to me through
+              this process was the idea of developing highly efficient and scalable algorithms to
+              tackle real-world problems.
             </p>
 
             <p>
@@ -145,33 +147,32 @@ const About = () => {
               <a target="_blank" href="https://www.pnnl.gov/" rel="noreferrer">
                 Pacific Northwest National Laboratory
               </a>
-              , a DOE-affiliated national lab,{' '}
+              , a DOE-affiliated national lab to tackle issues related to modernizing irrigation
+              systems,{' '}
               <a target="_blank" href="https://www.surgetheory.org/" rel="noreferrer">
                 The Knudsen Institute
               </a>
-              , a private non-profit research organization,{' '}
-              <a href="https://www.inspiritai.com/">Inspirit AI</a>, an ed-tech company, and{' '}
-              <a href="https://www.linkedin.com/company/hello-world-purduehackers/mycompany/">
+              , a private non-profit research organization where I developed solutions to combat
+              disruptions in the automotive supply chain,{' '}
+              <a
+                href="https://www.linkedin.com/company/hello-world-purduehackers/mycompany/"
+                target="_blank"
+                rel="noreferrer">
                 Hello World
               </a>
-              , Purdue's largest beginner-friendly 24-hour hackathon.
-            </p>
-
-            <p>
-              My main focus these days is working to create an accessible and robust conversational
-              AI software development platform where developers can test and fine tune multiple
-              pre-trained LLMs, and deploy chatbots using them in isolated environments at{' '}
-              <a href="https://www.open.build/" target="_blank" rel="noreferrer">
-                Open Build
+              , Purdue's largest beginner-friendly 24-hour hackathon where I'm leading the
+              development of the front-facing platform, and{' '}
+              <a href="https://www.spacecowllc.com/" target="_blank" rel="noreferrer">
+                Space Cow
               </a>
-              .
+              , where I contributed to a platform for developers to rapidly develop chatbot
+              applications.
             </p>
 
             <p>
               My ultimate goal is to not only contribute to the field as a computer vision engineer,
-              specifically in developing advanced object detection algorithms for autonomous
-              vehicles, but to also improve my ability to tackle algorithmic problems in a
-              systematic manner.
+              specifically in developing advanced algorithms for autonomous vehicles, but also
+              improve my ability to tackle algorithmic problems in a systematic manner.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
