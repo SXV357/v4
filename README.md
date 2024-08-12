@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/SXV357/development-portfolio/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  shreyas-viswanathan-portfolio.vercel.app
+  sviswanathan.vercel.app
 </h1>
 <p align="center">
   The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
