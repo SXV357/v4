@@ -7,8 +7,9 @@ external: ''
 tech:
   - Java
   - Swing
+  - JUnit
   - Git
   - GitHub
 ---
 
-This project was completed in satisfaction with the capstone project requirements of Purdue's CS180 course, and as part of a group of 5. It involves a desktop-based e-commerce application supporting two kinds of users, namely sellers who can create stores and products in then, and customers who can view those product listings and purchase them. The application is capable of supporting multiple concurrent users, and facilitating seamless data access and retrieval. It also features a database constructed using CSV files, to persist information in the case of client or server shutdowns.
+This project was completed as part of a group of 5 in satisfaction with the capstone project requirements of Purdue's CS180 course. It involves a desktop-based e-commerce application supporting two kinds of users, namely sellers who can create stores and products in then, and customers who can view those product listings and purchase them. The application is capable of supporting multiple concurrent users, and facilitating seamless data access and retrieval. It also features a database constructed using CSV files, to persist information in the case of client or server shutdowns.

@@ -1,6 +1,6 @@
 ---
-date: '2024-06-29'
-title: 'AI Innovation Fellow, Deep Learning Scholar'
+date: '2024-12-18'
+title: 'AI Innovation Fellow | Deep Learning Scholar'
 company: 'Inspirit AI'
 location: 'Remote'
 range: 'August 2022 - Present'

@@ -1,10 +1,10 @@
 ---
 date: '2024-08-10'
-title: 'Data Science Intern'
+title: 'Data Science Intern | LLM Infrastructure and Interoperability'
 company: 'Space Cow LLC'
 location: 'Remote'
 range: 'June 2024 - August 2024'
-url: 'https://www.spacecowllc.com/'
+url: 'https://github.com/open-build/BabbleBeaver'
 ---
 
 - Authored a session-based conversation history and token tracking system feature, reducing overhead by enabling history truncation for models with context windows ranging from 4,000 to 2M tokens

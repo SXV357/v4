@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'JavaScript', 'React', 'Firebase', 'Flask', 'SQL'];
+  const skills = ['Python', 'Java', 'JavaScript', 'Node.js', 'SQL', 'C/x86-64 Assembly'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -154,19 +154,16 @@ const About = () => {
               </a>
               , a private non-profit research organization where I developed solutions to combat
               disruptions in the automotive supply chain,{' '}
-              <a
-                href="https://www.linkedin.com/company/hello-world-purduehackers/mycompany/"
-                target="_blank"
-                rel="noreferrer">
-                Hello World
-              </a>
-              , Purdue's largest beginner-friendly 24-hour hackathon where I'm leading the
-              development of the front-facing platform, and{' '}
               <a href="https://www.spacecowllc.com/" target="_blank" rel="noreferrer">
                 Space Cow
               </a>
               , where I contributed to a platform for developers to rapidly develop chatbot
-              applications.
+              applications, and{' '}
+              <a href="https://htfpurdue.org/" target="_blank" rel="noreferrer">
+                Hack The Future
+              </a>
+              , where I'm working towards building an IVR-based system for SFSL Food Pantry to
+              efficiently connect with and deliver food to those in need.
             </p>
 
             <p>

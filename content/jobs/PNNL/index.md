@@ -1,6 +1,6 @@
 ---
-date: '2024-08-10'
-title: 'SRI Web Development Intern'
+date: '2024-12-18'
+title: 'SRI Web Development Intern | Irrigation Systems & Analytics'
 company: 'PNNL'
 location: 'Remote'
 range: 'August 2022 - May 2023'

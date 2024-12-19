@@ -1,6 +1,6 @@
 ---
-date: '2024-08-10'
-title: 'Undergraduate Data Science Researcher'
+date: '2024-12-18'
+title: 'Data and Software Engineering Researcher | EV Manufacturing Intelligence'
 company: 'The Knudsen Institute'
 location: 'West Lafayette, IN'
 range: 'August 2023 - May 2024'
