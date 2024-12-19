@@ -66,8 +66,15 @@ const Hero = () => {
     <>
       <p>
         I’m an undergraduate Computer Science student with interests in large-scale data-driven web
-        applications and autonomous systems. I enjoy tackling complex problems, and working towards
-        developing innovative and systemic ways to tackle them.
+        applications and autonomous systems. As part of{' '}
+        <a href="https://htfpurdue.org/" target="_blank" rel="noreferrer">
+          Hack The Future
+        </a>
+        , I'm currently focused on developing an IVR-based order system for{' '}
+        <a href="https://www.sharefoodsharelove.org/" target="_blank" rel="noreferrer">
+          SFSL Food Pantry
+        </a>{' '}
+        to help them efficiently connect with and deliver food to customers.
       </p>
     </>
   );
